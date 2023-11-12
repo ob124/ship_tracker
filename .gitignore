@@ -7,3 +7,4 @@
 .idea/inspectionProfiles/profiles_settings.xml
 /.streamlit/secrets.toml
 /ship-tracker-firestore-key.json
+*.pyc
