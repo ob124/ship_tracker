@@ -1,8 +1,8 @@
 import time
 import streamlit as st
-from google.cloud import firestore
+import google.cloud.firestore as firestore
 import json
-from google.oauth2 import service_account
+import google.oauth2.service_account as service_account
 from model.ship import Ship
 from util.create_ship_util import create_ship
 
